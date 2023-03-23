@@ -92,7 +92,7 @@ img{
 
 #projects{
   width: 100%;
-  padding: 4rem 2rem;
+  padding: 4rem 1rem;
 }
 .project-items{
   display: flex;
@@ -117,6 +117,7 @@ img{
 }
 
 .project-description{
+  width: 100%;
   text-align: left;
   background-color: var(--black);
   color: var(--white);
