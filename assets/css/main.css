@@ -92,7 +92,7 @@ img{
 
 #projects{
   width: 100%;
-  padding: 4rem 1rem;
+  padding: 4rem 0;
 }
 .project-items{
   display: flex;
@@ -189,6 +189,7 @@ img{
   }
   #projects{
     max-width: 1200px;
+    padding: 4rem 2rem;
     margin: 0 auto;
   }
   #projects img{
@@ -299,6 +300,9 @@ nav [class*="fa-"]:hover {
     flex-basis: auto;
     text-align: left;
     margin-right: auto;
+  }
+  #project{
+    padding: 4rem 2rem;
   }
   .project-card{
     width: 30%;
